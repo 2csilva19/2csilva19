@@ -3,5 +3,5 @@
 Meu nome é Gabriel Silva
 
 - Estou estudando um pouco de programação e desing de games
-- Estou querendo apreder um pouco de java scripts
+- Também quero cursar a faculdade de T.I
   
